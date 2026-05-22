@@ -1,0 +1,30 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Linter / type-checker caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Build artefacts
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+test_env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
